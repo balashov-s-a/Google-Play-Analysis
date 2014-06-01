@@ -1,0 +1,6 @@
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\Extensions\Extensions\bin\x64\Release\Extensions.dll
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\Extensions\Extensions\bin\x64\Release\Extensions.pdb
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\Extensions\Extensions\bin\x64\Release\LINQPad.exe
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\Extensions\Extensions\obj\x64\Release\Extensions.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\Extensions\Extensions\obj\x64\Release\Extensions.dll
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\Extensions\Extensions\obj\x64\Release\Extensions.pdb

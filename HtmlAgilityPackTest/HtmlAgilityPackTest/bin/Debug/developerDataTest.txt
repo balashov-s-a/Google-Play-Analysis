@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<ArrayOfDeveloperData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DeveloperData>
+    <name>BY.JUN</name>
+    <url>https://play.google.com/store/apps/developer?id=BY.JUN</url>
+    <appsNames>
+      <string>KakaoTalk Theme - Simple Kakao</string>
+      <string>KakaoTalk - Simple Kakao.A</string>
+      <string>KakaoTalk Theme - POP TALK</string>
+      <string>KakaoTalk Theme- Kakao ICS.C.i</string>
+      <string>카카오톡 테마 - 카카오 그레이(Kakao Grey)</string>
+      <string>카카오톡 테마 - 핀업 톡(Pinup Talk)</string>
+      <string>KakaoTalk Theme - Kakao ICS.C</string>
+      <string>카카오톡 테마 - 카카오 블루(Kakao Blue)</string>
+    </appsNames>
+    <appsIDs>
+      <string>Simple.KakaoTalk.Theme</string>
+      <string>Simple_A.KakaoTalk.Theme</string>
+      <string>POP.KakaoTalk.Theme</string>
+      <string>ICS_C_i.KakaoTalk.Theme</string>
+      <string>Grey.KakaoTalk.Theme</string>
+      <string>Pinup.KakaoTalk.Theme.U1</string>
+      <string>ICS_C.KakaoTalk.Theme</string>
+      <string>Blue.KakaoTalk.Theme.U1</string>
+    </appsIDs>
+  </DeveloperData>
+  <DeveloperData>
+    <name>Galisoft</name>
+    <url>https://play.google.com/store/apps/developer?id=Galisoft</url>
+    <appsNames>
+      <string>Мультфильм Quiz</string>
+      <string>Футболисты Викторина</string>
+      <string>Звуки животных</string>
+      <string>I Love Frases Amor</string>
+      <string>Футбольная Викторина Логотипы</string>
+      <string>Знаменитости Photo Quiz</string>
+      <string>Trivial Logos</string>
+      <string>Real Madrid Time Quiz</string>
+      <string>Basketball Photo Quiz</string>
+      <string>Gran Turismo Quiz</string>
+      <string>Frases de Amigos</string>
+      <string>Baby Happy Звуки</string>
+      <string>Champions Photo Quiz 2014</string>
+    </appsNames>
+    <appsIDs>
+      <string>com.galisoft.cartoonquiz</string>
+      <string>com.galisoft.quizplayerimages</string>
+      <string>com.galisoft.animalsounds</string>
+      <string>com.galisoft.ilovefrasesamor</string>
+      <string>com.galisoft.quizfutbollogo</string>
+      <string>com.galisoft.celebrityphotoquiz</string>
+      <string>com.galisoft.triviallogos</string>
+      <string>com.galisoft.rmquiz</string>
+      <string>com.galisoft.basketballphotoquiz</string>
+      <string>com.galisoft.granturismoquiz</string>
+      <string>com.galisoft.frasesdeamigos</string>
+      <string>com.galisoft.babyhappysounds</string>
+      <string>com.galisoft.championsphotoquiz1314</string>
+    </appsIDs>
+  </DeveloperData>
+  <DeveloperData>
+    <name>Спортивный контент</name>
+    <url>https://play.google.com/store/apps/developer?id=%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9+%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82</url>
+    <appsNames>
+      <string>КУРС «100 ОТЖИМАНИЙ»</string>
+      <string>Качайся дома. Очень просто</string>
+      <string>Идеальный пресс. Упражнения</string>
+      <string>Макияж глаз. Очень просто</string>
+      <string>Обучения боксу Том 1</string>
+      <string>25 подтягиваний за 6 недель</string>
+      <string>Похудеть  БЕЗ УСИЛИЙ ПРОСТО</string>
+      <string>САМБО. Учебное пособие</string>
+      <string>Бодибилдинг, руки. От А до Я</string>
+      <string>Увеличения силы удара в Каратэ</string>
+      <string>Бодибилдинг, плечи. От А до Я</string>
+      <string>Бодибилдинг, грудь. От А до Я</string>
+      <string>Бодибилдинг, спина. От А до Я</string>
+      <string>Набор мышечной массы</string>
+      <string>100 ОТЖИМАНИЙ</string>
+      <string>Бодибилдинг, ноги. От А до Я</string>
+      <string>Обучения боксу Том 2</string>
+      <string>200 приседаний</string>
+      <string>Бодибилдинг, попа. От А до Я</string>
+      <string>200 приседаний. БЕЗ УСИЛИЙ</string>
+      <string>Плоский живот БЕЗ УСИЛИЙ</string>
+      <string>Йога. Очень просто!</string>
+      <string>Армрестлинг</string>
+      <string>Обучение боксу Том 3</string>
+    </appsNames>
+    <appsIDs>
+      <string>com.appmk.magazine.AOUJXDLVNZQWAHLT</string>
+      <string>com.appmk.magazine.AOUMMAWTNWNYGAW</string>
+      <string>com.appmk.magazine.AOUKJJCIPOAFMZOA</string>
+      <string>com.appmk.magazine.AOUOCKQSOOUJWG</string>
+      <string>com.appmk.magazine.AOUOCSGLXMHKDFC</string>
+      <string>com.appmk.magazine.AOULSSJTHOBETVXB</string>
+      <string>com.appmk.magazine.AOUKOCPQLXLJXDQP</string>
+      <string>com.appmk.magazine.AOUJXFPXIKTSGVLD</string>
+      <string>com.appmk.magazine.AOUMOABOVRLAIFFMT</string>
+      <string>com.appmk.magazine.AOUMJGEDPLQBBJSGH</string>
+      <string>com.appmk.magazine.AOUMOALRVVIASIFQR</string>
+      <string>com.appmk.magazine.AOUMOZQBOOAGGLJN</string>
+      <string>com.appmk.magazine.AOUMOAJCUHAAPTEBZ</string>
+      <string>my.book.ua.AOUQIALRMJFDHHLG</string>
+      <string>com.appmk.magazine.AOUKPGYGBSDIGSLY</string>
+      <string>com.appmk.magazine.AOUMOACQNTWAJGXPG</string>
+      <string>com.appmk.magazine.AOUPVKSEZSFSKIN</string>
+      <string>com.appmk.magazine.AOULPLGDTCBWNPWR</string>
+      <string>com.appmk.magazine.AOUMOAHVNPMAOLXKL</string>
+      <string>com.appmk.magazine.AOULPLGDTCBWNPWP</string>
+      <string>com.appmk.magazine.AOULSHLZTGATWCIQ</string>
+      <string>my.book.ua.AOUMKEZUNDXGAYNJ</string>
+      <string>com.appmk.magazine.AOULUFHXQRXKMUEG</string>
+      <string>com.appmk.magazine.AOUPXDWJMMQADUDNA</string>
+    </appsIDs>
+  </DeveloperData>
+</ArrayOfDeveloperData>

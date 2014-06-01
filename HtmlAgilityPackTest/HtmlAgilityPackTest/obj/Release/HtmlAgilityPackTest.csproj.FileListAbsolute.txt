@@ -1,0 +1,12 @@
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\HtmlAgilityPackTest\HtmlAgilityPackTest\bin\Release\HtmlAgilityPackTest.exe.config
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\HtmlAgilityPackTest\HtmlAgilityPackTest\bin\Release\HtmlAgilityPackTest.exe
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\HtmlAgilityPackTest\HtmlAgilityPackTest\bin\Release\HtmlAgilityPackTest.pdb
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\HtmlAgilityPackTest\HtmlAgilityPackTest\bin\Release\HtmlAgilityPack.dll
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\HtmlAgilityPackTest\HtmlAgilityPackTest\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\HtmlAgilityPackTest\HtmlAgilityPackTest\bin\Release\HtmlAgilityPack.xml
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\HtmlAgilityPackTest\HtmlAgilityPackTest\obj\Release\HtmlAgilityPackTest.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\HtmlAgilityPackTest\HtmlAgilityPackTest\obj\Release\HtmlAgilityPackTest.exe
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\HtmlAgilityPackTest\HtmlAgilityPackTest\obj\Release\HtmlAgilityPackTest.pdb
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\HtmlAgilityPackTest\HtmlAgilityPackTest\bin\Release\LINQPad.exe
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\HtmlAgilityPackTest\HtmlAgilityPackTest\bin\Release\MoreLinq.dll
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\HtmlAgilityPackTest\HtmlAgilityPackTest\bin\Release\MoreLinq.xml

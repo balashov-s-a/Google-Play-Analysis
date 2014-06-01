@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GooglePlay", "GooglePlay\GooglePlay.csproj", "{27450C84-415B-46B6-BFDB-6D8667F99567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlAgilityPackTest", "..\HtmlAgilityPackTest\HtmlAgilityPackTest\HtmlAgilityPackTest.csproj", "{3C528ADE-77B3-4DF7-89D4-15921A30BADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "..\Extensions\Extensions\Extensions.csproj", "{C8BBD02B-054C-4BD2-B88B-BD9C7018C750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27450C84-415B-46B6-BFDB-6D8667F99567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27450C84-415B-46B6-BFDB-6D8667F99567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27450C84-415B-46B6-BFDB-6D8667F99567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27450C84-415B-46B6-BFDB-6D8667F99567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C528ADE-77B3-4DF7-89D4-15921A30BADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C528ADE-77B3-4DF7-89D4-15921A30BADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C528ADE-77B3-4DF7-89D4-15921A30BADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C528ADE-77B3-4DF7-89D4-15921A30BADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8BBD02B-054C-4BD2-B88B-BD9C7018C750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BBD02B-054C-4BD2-B88B-BD9C7018C750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BBD02B-054C-4BD2-B88B-BD9C7018C750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BBD02B-054C-4BD2-B88B-BD9C7018C750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

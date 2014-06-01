@@ -1,0 +1,17 @@
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\bin\Release\GooglePlay.exe.config
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\obj\Release\GooglePlay.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\obj\Release\GooglePlay.Properties.Resources.resources
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\obj\Release\GooglePlay.csproj.GenerateResource.Cache
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\bin\Release\GooglePlay.exe
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\bin\Release\GooglePlay.pdb
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\bin\Release\HtmlAgilityPackTest.exe
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\bin\Release\MoreLinq.dll
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\bin\Release\HtmlAgilityPack.dll
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\bin\Release\HtmlAgilityPackTest.pdb
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\bin\Release\MoreLinq.xml
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\bin\Release\HtmlAgilityPack.xml
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\obj\Release\GooglePlay.DataPoint.resources
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\obj\Release\GooglePlay.exe
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\obj\Release\GooglePlay.pdb
+C:\Users\Сергей\Documents\Visual Studio 2012\Projects\GooglePlay\GooglePlay\bin\Release\LINQPad.exe
